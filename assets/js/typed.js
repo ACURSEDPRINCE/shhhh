@@ -1,0 +1,1 @@
+new Typed('#typed',{strings:[,'nigga','nega','nigger','nigglet',],typeSpeed:50,delaySpeed:111,showCursor:true,loop:true})
